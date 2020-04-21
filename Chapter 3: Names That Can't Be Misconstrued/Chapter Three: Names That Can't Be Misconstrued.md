@@ -5,7 +5,7 @@ In the previous chapter, we covered how to put a lot of information into your na
 
 > KEY IDEA
 > Actively scrutinize your names by asking yourself, “What other meanings could someone interpret from this name?”
-> 
+>
 
 Really try to be creative here, actively seeking “wrong interpretations.” This step will help you spot those ambiguous names so you can change them
 
@@ -95,7 +95,7 @@ In addition to first/last, the names min/max may also work for inclusive ranges,
 
 ![](https://i.imgur.com/4PDMKAu.png)
 
-n practice, it’s often more convenient to use inclusive/exclusive ranges. For example, if you want to print all the events that happened on October 16, it’s easier to write:
+In practice, it’s often more convenient to use inclusive/exclusive ranges. For example, if you want to print all the events that happened on October 16, it’s easier to write:
 ```
 PrintEventsInRange("OCT 16 12:00am", "OCT 17 12:00am")
 ```
@@ -251,65 +251,3 @@ When it comes to defining an upper or lower limit for a value, max_ and min_ are
 When naming a boolean, use words like is and has to make it clear that it’s a boolean. Avoid negated terms (e.g., disable_ssl).
 
 Beware of users’ expectations about certain words. For example, users may expect get() or size() to be lightweight methods.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
